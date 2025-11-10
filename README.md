@@ -71,8 +71,7 @@ The Expense Tracker App caters to individuals or businesses looking to manage th
 - **Error Handling**: Implement robust error handling mechanisms to provide users with meaningful error messages and ensure smooth application operation.
 - **Documentation**: Provide comprehensive documentation, including installation instructions, usage guidelines, and troubleshooting tips, to assist users in utilizing the application effectively.
 
-## Video
-https://github.com/sandesh300/Expense-Tracker-App/assets/92014891/89735de4-f801-4d0a-9203-dd4d1f315a56
+
 
 ## Images
 ![Screenshot (1069)](https://github.com/sandesh300/Expense-Tracker-App/assets/92014891/5d20d458-9808-419f-bf8c-ccccf9b05dfd)
