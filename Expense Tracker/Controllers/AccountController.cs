@@ -10,7 +10,7 @@ namespace Expense_Tracker_App.Controllers
         private readonly UserManager<ApplicationUser> _userManager;
         private readonly SignInManager<ApplicationUser> _signInManager;
 
-        // Inject the Identity services we need — types must match the generic type (ApplicationUser)
+        // Inject the Identity services we need — types must match the generic type (ApplicationUser) !!
         public AccountController(UserManager<ApplicationUser> userManager, SignInManager<ApplicationUser> signInManager)
         {
             _userManager = userManager;

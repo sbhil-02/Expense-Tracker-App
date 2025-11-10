@@ -2,6 +2,7 @@
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 
+// In Data/ApplicationDbContext.cs
 namespace Expense_Tracker.Data
 {
     public class ApplicationDbContext : IdentityDbContext<ApplicationUser>

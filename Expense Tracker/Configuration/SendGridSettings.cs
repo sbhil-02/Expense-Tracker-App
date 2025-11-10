@@ -1,4 +1,4 @@
-﻿// In Configuration/SendGridSettings.cs
+﻿// In Configuration/SendGridSettings.cs!
 public class SendGridSettings
 {
     public string ApiKey { get; set; }

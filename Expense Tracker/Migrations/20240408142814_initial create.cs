@@ -2,7 +2,7 @@
 using Microsoft.EntityFrameworkCore.Migrations;
 
 #nullable disable
-
+// In Migrations/20240408142814_initial create.cs
 namespace Expense_Tracker.Migrations
 {
     public partial class initialcreate : Migration

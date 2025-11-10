@@ -23,7 +23,7 @@ namespace Expense_Tracker_App.Services
                     page.PageColor(Colors.White);
                     page.DefaultTextStyle(x => x.FontSize(11).FontFamily(Fonts.Arial));
 
-                    // Header
+                    // Header with title and period
                     page.Header().Element(header => ComposeHeader(header, data.ReportGeneratedFor));
 
                     // Content

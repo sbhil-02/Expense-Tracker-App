@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
-using Expense_Tracker.Models;  // make sure this is here
+using Expense_Tracker.Models;  // make sure this is here in code
 
 namespace Expense_Tracker.Models
 {

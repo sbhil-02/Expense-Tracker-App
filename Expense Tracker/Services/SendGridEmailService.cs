@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 public class SendGridEmailService : IEmailService
 {
-    // Inject the strongly-typed settings object
+    // Inject the strongly-typed settings object!!
     private readonly SendGridSettings _sendGridSettings;
 
     public SendGridEmailService(SendGridSettings sendGridSettings)
